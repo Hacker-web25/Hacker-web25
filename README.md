@@ -37,15 +37,13 @@ I don't want to just learn technology — I want to use it to create things that
 <table>
   <tr>
     <td>
-      <a href="https://myvpv.com"><img src="assets/factory-tour.svg" alt="Factory-tour preview" width="100%" /></a>
+      <a href="https://myvpv.com"><img src="factory-tour.svg" alt="Factory-tour preview" width="100%" /></a>
       <h3>🥇 Factory-tour</h3>
-      <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/Factory-tour?label=commits&style=for-the-badge&color=2ea44f" alt="Factory-tour commits" />
-      <img src="https://img.shields.io/badge/status-deployed-2ea44f?style=for-the-badge" alt="Deployed" />
+      <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/Factory-tour?label=commits&style=flat-square&color=2ea44f" alt="Factory-tour commits" />
+      <img src="https://img.shields.io/badge/status-deployed-2ea44f?style=flat-square" alt="Deployed" />
       <p>
         A 360° virtual tour platform for factories and plants. Client organisations get their own subdomain and dashboards, and an internal editor turns on-site photos into finished tours.
       </p>
-      <p>
-        <a href="https://myvpv.com" target="_blank">Visit My Website MYVPV </a>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
         <img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
@@ -60,16 +58,8 @@ I don't want to just learn technology — I want to use it to create things that
 <table>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Hacker-web25/gym-booking"><img src="assets/gym-booking.svg" alt="gym-booking preview" width="100%" /></a>
-      <h3>🥈 gym-booking</h3>
-      <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/gym-booking?label=commits&style=flat-square&color=3fb950" alt="gym-booking commits" />
-      <p>A web app for booking gym slots.</p>
-      <!-- TODO: add the stack badges and one more line on what it does (e.g. how slots are managed). -->
-      <a href="https://github.com/Hacker-web25/gym-booking"><b>View the code →</b></a>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Hacker-web25/FocusGuard"><img src="assets/focusguard.svg" alt="FocusGuard preview" width="100%" /></a>
-      <h3>🥉 FocusGuard</h3>
+      <a href="https://github.com/Hacker-web25/FocusGuard"><img src="focusguard.svg" alt="FocusGuard preview" width="100%" /></a>
+      <h3>🥈 FocusGuard</h3>
       <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/FocusGuard?label=commits&style=flat-square&color=3fb950" alt="FocusGuard commits" />
       <p>An Android app that puts a countdown overlay in front of distracting apps like Instagram, with a task and goals manager behind it.</p>
       <p>
@@ -79,10 +69,18 @@ I don't want to just learn technology — I want to use it to create things that
       </p>
       <a href="https://github.com/Hacker-web25/FocusGuard"><b>View the code →</b></a>
     </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Hacker-web25/gym-booking"><img src="gym-booking.svg" alt="gym-booking preview" width="100%" /></a>
+      <h3>🥉 gym-booking</h3>
+      <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/gym-booking?label=commits&style=flat-square&color=3fb950" alt="gym-booking commits" />
+      <p>A web app for booking gym slots.</p>
+      <!-- TODO: add the stack badges and one more line on what it does (e.g. how slots are managed). -->
+      <a href="https://github.com/Hacker-web25/gym-booking"><b>View the code →</b></a>
+    </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <a href="https://github.com/Hacker-web25/api-gateway"><img src="assets/api-gateway.svg" alt="api-gateway preview" width="100%" /></a>
+      <a href="https://github.com/Hacker-web25/api-gateway"><img src="api-gateway.svg" alt="api-gateway preview" width="100%" /></a>
       <h3>4. api-gateway</h3>
       <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/api-gateway?label=commits&style=flat-square&color=3fb950" alt="api-gateway commits" />
       <p>An API gateway that counts requests per user in Redis and rate limits anyone who sends too many.</p>
@@ -93,7 +91,7 @@ I don't want to just learn technology — I want to use it to create things that
       <a href="https://github.com/Hacker-web25/api-gateway"><b>View the code →</b></a>
     </td>
     <td width="50%" valign="top">
-      <a href="https://github.com/Hacker-web25/hiringbrief"><img src="assets/hiringbrief.svg" alt="hiringbrief preview" width="100%" /></a>
+      <a href="https://github.com/Hacker-web25/hiringbrief"><img src="hiringbrief.svg" alt="hiringbrief preview" width="100%" /></a>
       <h3>5. hiringbrief</h3>
       <img src="https://img.shields.io/github/commit-activity/t/Hacker-web25/hiringbrief?label=commits&style=flat-square&color=6e7681" alt="hiringbrief commits" />
       <p>Just started. The first commit is in and more is on the way.</p>
