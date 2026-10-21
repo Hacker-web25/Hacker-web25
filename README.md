@@ -43,6 +43,7 @@ I don't want to just learn technology — I want to use it to create things that
       <img src="https://img.shields.io/badge/status-deployed-2ea44f?style=for-the-badge" alt="Deployed" />
       <p>
         A 360° virtual tour platform for factories and plants. Client organisations get their own subdomain and dashboards, and an internal editor turns on-site photos into finished tours.
+        myvpv.com
       </p>
       <p>
         <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
